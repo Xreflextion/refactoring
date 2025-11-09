@@ -1,0 +1,9 @@
+558a452 Task 1.1 fix StatementPrinter styling
+352ef47 Task 1.1 public to private attributes for Performance class
+50fdf63 Task 1.1 edit javadoc
+cee9667 Task 1.1 change public to private
+937d720 Task 1.1 static modifier order fix
+b545fe2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
