@@ -1,3 +1,4 @@
+b2795ab Task 2.2 extract volume credits
 b78a2f0 Task 2.1 refactoring
 043e673 Task 1.2 add logs
 558a452 Task 1.1 fix StatementPrinter styling
