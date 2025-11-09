@@ -1,3 +1,4 @@
+46befe4 Task 2.4 splitting loop
 bd5ed1c Task 2.3 removing frmt variable
 b2795ab Task 2.2 extract volume credits
 b78a2f0 Task 2.1 refactoring
